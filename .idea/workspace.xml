@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1309b02-8f56-45f9-b283-21945325e804" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YknCCnvDadEeV4kOXvm3821Jmd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/test/patterns" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\program\Project02\src\main\java\com\test" />
+      <recent name="D:\program\Project02\src\main\java\com\test\search" />
+      <recent name="D:\program\Project02\src\main\java\com\test\graph" />
+      <recent name="D:\program\Project02\src\main\java\com\test\tree" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\program\Project02\src\main\java\com\test\patterns" />
+      <recent name="D:\program\Project02\src\main\java\com\test\linklist" />
+      <recent name="D:\program\Project02\src\main\java\com\test\folder" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.getMaxString">
+    <configuration name="CountingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.sort.CountingSort" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetTxtFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.sort.GetTxtFile" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.map.MaxSubString" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getMaxString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.map.getMaxString" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="toChinese" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.array.toChinese" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="DataStructureAndAlgorithm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="DataStructureAndAlgorithm" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.getMaxString" />
+        <item itemvalue="Application.MaxSubString" />
+        <item itemvalue="Application.toChinese" />
+        <item itemvalue="Application.CountingSort" />
+        <item itemvalue="Application.GetTxtFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1309b02-8f56-45f9-b283-21945325e804" name="Default Changelist" comment="" />
+      <created>1583495329183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583495329183</updated>
+      <workItem from="1583495334566" duration="353000" />
+      <workItem from="1583571179105" duration="12000" />
+      <workItem from="1584413446872" duration="2393000" />
+      <workItem from="1584608375785" duration="620000" />
+      <workItem from="1586268188190" duration="129000" />
+      <workItem from="1586268442227" duration="26000" />
+      <workItem from="1586408343897" duration="7769000" />
+      <workItem from="1586857245419" duration="242000" />
+      <workItem from="1588759168706" duration="17479000" />
+      <workItem from="1589076657423" duration="325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="162" y="75" key="#Project_Structure" timestamp="1588760942394">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="162" y="75" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1588760942394" />
+    <state x="342" y="132" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1588829406522">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="342" y="132" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.760@0.0.1280.760" timestamp="1588829406522" />
+    <state x="393" y="112" key="FileChooserDialogImpl" timestamp="1588767270357">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="393" y="112" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1588767270357" />
+    <state width="1087" height="86" key="GridCell.Tab.0.bottom" timestamp="1588835693490">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1087" height="86" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1588835693490" />
+    <state width="1087" height="86" key="GridCell.Tab.0.center" timestamp="1588835693490">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1087" height="86" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1588835693490" />
+    <state width="1087" height="86" key="GridCell.Tab.0.left" timestamp="1588835693490">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1087" height="86" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1588835693490" />
+    <state width="1087" height="86" key="GridCell.Tab.0.right" timestamp="1588835693490">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1087" height="86" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1588835693490" />
+    <state width="1236" height="215" key="GridCell.Tab.1.bottom" timestamp="1586527260584">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1236" height="215" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1586527260584" />
+    <state width="1236" height="215" key="GridCell.Tab.1.center" timestamp="1586527260583">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1236" height="215" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1586527260583" />
+    <state width="1236" height="215" key="GridCell.Tab.1.left" timestamp="1586527260583">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1236" height="215" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1586527260583" />
+    <state width="1236" height="215" key="GridCell.Tab.1.right" timestamp="1586527260584">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1236" height="215" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1586527260584" />
+    <state x="280" y="76" key="NewModule_or_Project.wizard" timestamp="1588767273416">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="280" y="76" key="NewModule_or_Project.wizard/0.0.1280.760@0.0.1280.760" timestamp="1588767273416" />
+    <state x="138" y="0" key="SettingsEditor" timestamp="1589076957478">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="138" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1589076957478" />
+    <state x="328" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1586857244498">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="328" y="196" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1586857244498" />
+    <state x="316" y="111" width="647" height="538" key="find.popup" timestamp="1588760104033">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="316" y="111" width="647" height="538" key="find.popup/0.0.1280.760@0.0.1280.760" timestamp="1588760104033" />
+    <state x="21" y="53" key="new project wizard" timestamp="1583495685332">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="21" y="53" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1583495685332" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project02$MaxSubString.ic" NAME="MaxSubString Coverage Results" MODIFIED="1588829736748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.test.map.*</FILTER>
+    </SUITE>
+  </component>
+</project>
