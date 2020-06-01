@@ -30,6 +30,5 @@ public class Squares {
             }
         }
         return ans;
-
     }
 }
