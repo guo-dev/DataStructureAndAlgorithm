@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1309b02-8f56-45f9-b283-21945325e804" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/utils/NameAndPhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/array/Squares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/array/Squares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/map/MaxSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/map/MaxSubString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/test/patterns" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatis-simple" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -68,13 +65,13 @@
       <recent name="D:\program\Project02\src\main\java\com\test\folder" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.mapT">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Solution" />
+  <component name="RunManager" selected="Application.findOddNum">
+    <configuration name="findOddNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.array.findOddNum" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="com.test.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.findOddNum" />
         <item itemvalue="Application.mapT" />
         <item itemvalue="Application.maximumGap" />
         <item itemvalue="Application.getLeastNumbers" />
         <item itemvalue="Application.sortColors" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +167,10 @@
       <workItem from="1590147957844" duration="16438000" />
       <workItem from="1590449284003" duration="4975000" />
       <workItem from="1590711613068" duration="2912000" />
+      <workItem from="1590972254088" duration="2171000" />
+      <workItem from="1591346058770" duration="1222000" />
+      <workItem from="1591773600773" duration="641000" />
+      <workItem from="1591836957695" duration="3330000" />
     </task>
     <servers />
   </component>
@@ -185,26 +186,26 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="342" y="132" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.760@0.0.1280.760" timestamp="1588829406522" />
-    <state x="393" y="112" key="FileChooserDialogImpl" timestamp="1588767270357">
+    <state x="393" y="112" key="FileChooserDialogImpl" timestamp="1590978925510">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="393" y="112" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1588767270357" />
-    <state width="681" height="270" key="GridCell.Tab.0.bottom" timestamp="1590891754982">
+    <state x="393" y="112" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1590978925510" />
+    <state width="1200" height="51" key="GridCell.Tab.0.bottom" timestamp="1591861565030">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="681" height="270" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1590891754982" />
-    <state width="681" height="270" key="GridCell.Tab.0.center" timestamp="1590891754982">
+    <state width="1200" height="51" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591861565030" />
+    <state width="1200" height="51" key="GridCell.Tab.0.center" timestamp="1591861565030">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="681" height="270" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1590891754982" />
-    <state width="681" height="270" key="GridCell.Tab.0.left" timestamp="1590891754981">
+    <state width="1200" height="51" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591861565030" />
+    <state width="1200" height="51" key="GridCell.Tab.0.left" timestamp="1591861565030">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="681" height="270" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1590891754981" />
-    <state width="681" height="270" key="GridCell.Tab.0.right" timestamp="1590891754982">
+    <state width="1200" height="51" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591861565030" />
+    <state width="1200" height="51" key="GridCell.Tab.0.right" timestamp="1591861565030">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="681" height="270" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1590891754982" />
+    <state width="1200" height="51" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591861565030" />
     <state width="1236" height="215" key="GridCell.Tab.1.bottom" timestamp="1586527260584">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -233,10 +234,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="138" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1589076957478" />
-    <state x="328" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1590711617597">
+    <state x="328" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1590972257199">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="328" y="196" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1590711617597" />
+    <state x="328" y="196" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1590972257199" />
     <state x="316" y="111" width="647" height="538" key="find.popup" timestamp="1589810148817">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
