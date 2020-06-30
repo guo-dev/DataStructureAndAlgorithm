@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e1309b02-8f56-45f9-b283-21945325e804" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/array/findOddNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/array/findOddNum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +12,20 @@
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="15" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,7 +65,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -65,7 +80,20 @@
       <recent name="D:\program\Project02\src\main\java\com\test\folder" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.findOddNum">
+  <component name="RunManager" selected="Application.FindDelNum">
+    <configuration name="FindDelNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.array.FindDelNum" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="findOddNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.test.array.findOddNum" />
       <module name="DataStructureAndAlgorithm" />
@@ -118,26 +146,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.array.sortColors" />
-      <module name="DataStructureAndAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindDelNum" />
         <item itemvalue="Application.findOddNum" />
         <item itemvalue="Application.mapT" />
         <item itemvalue="Application.maximumGap" />
         <item itemvalue="Application.getLeastNumbers" />
-        <item itemvalue="Application.sortColors" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +185,7 @@
       <workItem from="1590972254088" duration="2171000" />
       <workItem from="1591346058770" duration="1222000" />
       <workItem from="1591773600773" duration="641000" />
-      <workItem from="1591836957695" duration="3330000" />
+      <workItem from="1591836957695" duration="11160000" />
     </task>
     <servers />
   </component>
@@ -190,22 +205,22 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="393" y="112" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1590978925510" />
-    <state width="1200" height="51" key="GridCell.Tab.0.bottom" timestamp="1591861565030">
+    <state width="1200" height="137" key="GridCell.Tab.0.bottom" timestamp="1593507173145">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1200" height="51" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591861565030" />
-    <state width="1200" height="51" key="GridCell.Tab.0.center" timestamp="1591861565030">
+    <state width="1200" height="137" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1593507173145" />
+    <state width="1200" height="137" key="GridCell.Tab.0.center" timestamp="1593507173144">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1200" height="51" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591861565030" />
-    <state width="1200" height="51" key="GridCell.Tab.0.left" timestamp="1591861565030">
+    <state width="1200" height="137" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1593507173144" />
+    <state width="1200" height="137" key="GridCell.Tab.0.left" timestamp="1593507173144">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1200" height="51" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591861565030" />
-    <state width="1200" height="51" key="GridCell.Tab.0.right" timestamp="1591861565030">
+    <state width="1200" height="137" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1593507173144" />
+    <state width="1200" height="137" key="GridCell.Tab.0.right" timestamp="1593507173144">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1200" height="51" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591861565030" />
+    <state width="1200" height="137" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1593507173144" />
     <state width="1236" height="215" key="GridCell.Tab.1.bottom" timestamp="1586527260584">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -230,10 +245,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="280" y="76" key="NewModule_or_Project.wizard/0.0.1280.760@0.0.1280.760" timestamp="1588767273416" />
-    <state x="138" y="0" key="SettingsEditor" timestamp="1589076957478">
+    <state x="81" y="8" key="SettingsEditor" timestamp="1592191883492">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="138" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1589076957478" />
+    <state x="81" y="8" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1592191883492" />
     <state x="328" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1590972257199">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
